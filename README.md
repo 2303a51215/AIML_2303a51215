@@ -6,5 +6,6 @@
 [lab05: https://github.com/2303a51215/AIML_2303a51215/blob/main/lab05.ipynb]       
 [lab06: https://github.com/2303a51215/AIML_2303a51215/blob/main/Untitled11.ipynb]              
 [lab07: https://github.com/2303a51215/AIML_2303a51215/blob/main/lab7.ipynb]        
-[lab08: https://github.com/2303a51215/AIML_2303a51215/blob/main/lab_08.ipynb]             
+[lab08: https://github.com/2303a51215/AIML_2303a51215/blob/main/lab_08.ipynb]       
+[lab09: https://github.com/2303a51215/AIML_2303a51215/blob/main/lab_09.ipynb]                
 [lab10 : https://github.com/2303a51215/AIML_2303a51215/blob/main/lab10.ipynb ]     
